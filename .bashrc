@@ -1,0 +1,5 @@
+alias apt="sudo apt-get"
+alias nano="sudo nano"   
+alias vi="sudo vi"
+alias vim="sudo vim"
+alias pip="pip3"
