@@ -17,10 +17,10 @@ alias pacman="sudo pacman" # Use pacman
 alias e="sudo emerge"
 
 ## Editors 
-alias edit="${EDITOR}"
-alias sedit="sudo ${EDITOR}"
-alias vi="${EDITOR}"
-alias svi="sudo ${EDITOR}"
+alias edit="$EDITOR"
+alias sedit="sudo $EDITOR"
+alias vi="$EDITOR"
+alias svi="sudo $EDITOR"
 
 ## Editors with sudo aliases ##
 alias smicro="sudo micro"
