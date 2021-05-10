@@ -1,6 +1,6 @@
 ## Config
 export EDITOR="micro" # Select editor (export for fish support(??))
-export VISUAL="${EDITOR}
+export VISUAL="${EDITOR}"
 
 # Package managers
 
