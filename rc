@@ -48,7 +48,7 @@ alias ffind="fd"
 
 alias pip="python -m pip" # python3?
 
-alias htop="bottom"
+alias htop="btm"
 alias hhtop"command htop"
 
 alias rm="rm -rf"
