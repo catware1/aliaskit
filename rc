@@ -1,6 +1,6 @@
 ## Config
 export EDITOR="micro" # Select editor (export for fish support(??))
-export VISUAL="${EDITOR}"
+export VISUAL="$EDITOR"
 
 # Package managers
 
@@ -49,7 +49,7 @@ alias ffind="fd"
 alias pip="python -m pip" # python3?
 
 alias htop="bpytop" # bashtop?
-alias hhtop"command htop"
+alias hhtop="command htop"
 
 alias rm="rm -rf"
 alias srm="sudo rm"
